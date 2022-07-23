@@ -3,4 +3,9 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="error_network" />
+    <string name="cd_news_image" />
+    <string name="txt_open_link" />
+    <string name="cd_favorite_icon" />
+    <string name="cd_share_icon" />
 </resources>
